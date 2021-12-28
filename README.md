@@ -1,2 +1,2 @@
 # sms-django-api
-Receive, store and forward SMSs using Django Rest Framework
+Receives, stores and forwards SMSs using Django Rest Framework
